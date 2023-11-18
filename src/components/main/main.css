@@ -1,0 +1,26 @@
+.card img{
+    width: auto;
+    height:250px;
+    margin: 10px;
+}
+
+.card{
+    width: 18rem;
+    padding: 10px;
+}
+
+.main ul li{
+    padding: 10px 0;
+    background-color: rgba(0, 0, 0, 0.612);
+}
+ul > *{
+    flex:1;
+}
+.main ul a:hover > li{
+    background-color: black;
+}
+img{
+    width: 250px;
+    height:250px;
+    margin: 10px;
+}
